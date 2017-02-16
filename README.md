@@ -1,4 +1,4 @@
-# hello-world
+# hello world
 This is the first repository that was created during the training
 
 This is just a test for editing the file.
